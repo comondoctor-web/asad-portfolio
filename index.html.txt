@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Asad ur Rehman | SEO & Outreach Specialist</title>
+
+<style>
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+  background:#0f172a;
+  color:#e5e7eb;
+  line-height:1.6;
+}
+
+.container{
+  width:90%;
+  max-width:1100px;
+  margin:auto;
+}
+
+/* Header */
+header{
+  background:linear-gradient(135deg,#2563eb,#1e40af);
+  padding:60px 0;
+  text-align:center;
+}
+
+header h1{
+  font-size:42px;
+  margin-bottom:10px;
+}
+
+header p{
+  font-size:18px;
+  opacity:0.9;
+}
+
+/* Sections */
+section{
+  padding:60px 0;
+}
+
+section h2{
+  font-size:32px;
+  color:#60a5fa;
+  margin-bottom:20px;
+  text-align:center;
+}
+
+section p{
+  font-size:16px;
+  color:#d1d5db;
+}
+
+/* About */
+.about{
+  text-align:center;
+  max-width:800px;
+  margin:auto;
+}
+
+/* Services */
+.services{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:20px;
+  margin-top:40px;
+}
+
+.service-box{
+  background:#020617;
+  padding:25px;
+  border-radius:12px;
+  border:1px solid #1e293b;
+  transition:0.3s;
+}
+
+.service-box:hover{
+  transform:translateY(-5px);
+  border-color:#3b82f6;
+}
+
+.service-box h3{
+  color:#93c5fd;
+  margin-bottom:10px;
+}
+
+/* Tools */
+.tools{
+  display:flex;
+  flex-wrap:wrap;
+  gap:15px;
+  justify-content:center;
+  margin-top:30px;
+}
+
+.tool{
+  background:#020617;
+  padding:10px 18px;
+  border-radius:30px;
+  border:1px solid #1e293b;
+  font-size:14px;
+}
+
+/* Testimonials */
+.testimonials{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+  gap:20px;
+  margin-top:40px;
+}
+
+.testimonial{
+  background:#020617;
+  padding:25px;
+  border-radius:12px;
+  border-left:4px solid #3b82f6;
+}
+
+.testimonial span{
+  display:block;
+  margin-top:10px;
+  color:#93c5fd;
+  font-size:14px;
+}
+
+/* Contact */
+.contact{
+  text-align:center;
+}
+
+.contact p{
+  font-size:18px;
+  margin:10px 0;
+}
+
+/* Footer */
+footer{
+  background:#020617;
+  text-align:center;
+  padding:20px 0;
+  margin-top:40px;
+  font-size:14px;
+  color:#9ca3af;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <div class="container">
+    <h1>Asad ur Rehman</h1>
+    <p>SEO Specialist | Guest Posting Expert | Email Outreach & Lead Hunter</p>
+  </div>
+</header>
+
+<section>
+  <div class="container about">
+    <h2>About Me</h2>
+    <p>
+      I am a professional SEO & Outreach Specialist with strong experience in
+      guest posting, link building, email outreach, and lead hunting.
+      My goal is to help businesses grow their organic traffic using
+      100% white-hat and result-driven SEO strategies.
+    </p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>My Services</h2>
+
+    <div class="services">
+      <div class="service-box">
+        <h3>Guest Posting</h3>
+        <p>
+          High-quality, niche-relevant guest posts on real websites with
+          traffic. Manual outreach and contextual do-follow backlinks.
+        </p>
+      </div>
+
+      <div class="service-box">
+        <h3>SEO Services</h3>
+        <p>
+          On-page SEO, off-page SEO, keyword research, competitor analysis,
+          and long-term organic growth strategies.
+        </p>
+      </div>
+
+      <div class="service-box">
+        <h3>Email Outreach</h3>
+        <p>
+          Personalized outreach campaigns for guest posting and link building
+          with high response rates.
+        </p>
+      </div>
+
+      <div class="service-box">
+        <h3>Email & Lead Hunting</h3>
+        <p>
+          Targeted and verified email leads for blog owners, businesses,
+          and B2B outreach campaigns.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Tools I Use</h2>
+    <div class="tools">
+      <div class="tool">Ahrefs</div>
+      <div class="tool">SEMrush</div>
+      <div class="tool">Google Analytics</div>
+      <div class="tool">Google Search Console</div>
+      <div class="tool">Hunter.io</div>
+      <div class="tool">Snov.io</div>
+      <div class="tool">Excel / Google Sheets</div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <h2>Client Testimonials</h2>
+
+    <div class="testimonials">
+      <div class="testimonial">
+        ⭐⭐⭐⭐⭐<br>
+        Asad provided high-quality guest posts that improved our rankings
+        and organic traffic significantly.
+        <span>— Digital Marketing Agency (USA)</span>
+      </div>
+
+      <div class="testimonial">
+        ⭐⭐⭐⭐⭐<br>
+        Very professional outreach expert. Clean backlinks and excellent
+        communication throughout the project.
+        <span>— SEO Consultant (UK)</span>
+      </div>
+
+      <div class="testimonial">
+        ⭐⭐⭐⭐⭐<br>
+        Fast delivery, genuine websites, and great results.
+        Highly recommended.
+        <span>— E-commerce Business Owner</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container contact">
+    <h2>Contact Me</h2>
+    <p><strong>Phone:</strong> 0319-8904414</p>
+    <p><strong>Email:</strong> fishijan433@gmail.com</p>
+  </div>
+</section>
+
+<footer>
+  © 2026 Asad ur Rehman — SEO & Outreach Specialist
+</footer>
+
+</body>
+</html>
